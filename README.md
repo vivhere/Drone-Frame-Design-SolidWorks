@@ -8,7 +8,7 @@
 
 ## 📂 Files Included
 - `VivekYadav_DroneFrame.SLDPRT` — final CAD model
-- `ISL_Report_VivekYadav.pdf` — detailed report
+- `Vivek Yadav_ISL-11002870` — detailed report
 
 ## 🚀 Skills Gained
 - 3D CAD modeling in SolidWorks
